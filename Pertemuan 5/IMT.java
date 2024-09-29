@@ -1,4 +1,4 @@
-package Tugas5;
+package pertemuan5;
 
 import java.util.Scanner;
 
